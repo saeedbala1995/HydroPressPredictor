@@ -1,5 +1,1 @@
-__author__ = 'Saeed Balahang'
-__author_email__ = 'saeedbalahang@gmail.com'
-__affiliation__ = 'Tarbiat Modares University/Iran'
-__year__='2024'
-__version__ = '1.0'
+
