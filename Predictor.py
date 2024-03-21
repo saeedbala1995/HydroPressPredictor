@@ -78,7 +78,7 @@ The input data file should be in CSV format and must include 3 columns as the fo
 1) Froude_number : Continues variable
 2) Pier_shape: Categorical Variable (Rectangular or Cylindrical)
 3) Channel_geometry: Categorical Variable (Rec or Nonrec)
-Please input the file name (for example Hydro_Pressure_Predictor/example_data/data.csv): 
+Please input the file directory (for example HydroPressPredictor/data.csv): 
         ''')
         
         try:
