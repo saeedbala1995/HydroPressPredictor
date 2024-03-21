@@ -17,7 +17,7 @@ To use the Hydrodynamic Pressure Predictor package, follow these steps:
    pip install pandas xgboost
    ```
 
-3. Ensure [XGBoost model](https://github.com/saeedbala1995/Hydrodynamic-Pressure-Predictor/blob/main/model/XGBoost.json) file is in the `HydroPressPredictor` directory.
+3. Ensure [XGBoost model](https://github.com/saeedbala1995/HydroPressPredictor/blob/HydroPressPredictor/XGBoost.json) file is in the `HydroPressPredictor` directory.
 4. Ensure the Python script [`Predictor.py`](https://github.com/saeedbala1995/Hydrodynamic-Pressure-Predictor/blob/main/hydro_pressure_predictor/hydro_pressure_predictor.py) in the `HydroPressPredictor` directory.
 5. Run `Predictor.py` to interactively make predictions for hydrodynamic pressure.
 
