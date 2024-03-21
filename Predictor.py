@@ -1,7 +1,7 @@
 import pandas as pd
 from xgboost import XGBRegressor
 model = XGBRegressor()
-model.load_model("Hydro_Pressure_Predictor/model/XGBoost.json")
+model.load_model("HydroPressPredictor/XGBoost.json")
 
 def normalize_froude_number(X):
     X_norm = (X - 1.334868834) / (1.54443149 - 1.334868834)
